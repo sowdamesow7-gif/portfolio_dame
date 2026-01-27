@@ -1,0 +1,5 @@
+Les déserts médicaux constituent un enjeu majeur de santé publique en France, caractérisés par une faible densité de professionnels de santé et des délais d’accès aux soins allongés. De nombreux territoires, qu’ils soient ruraux, urbains ou périurbains, sont concernés.
+
+Ce travail vise à créer une base de données pour analyser les déserts médicaux dans les bassins de vie du Loiret. Le bassin de vie correspond au plus petit territoire où les habitants accèdent aux services essentiels, notamment de santé. L’étude met l’accent sur la répartition des professionnels de santé et l’accessibilité aux équipements médicaux, éléments clés pour une couverture sanitaire équitable.
+
+Elle évalue la densité moyenne de six professions médicales en 2022 (médecins généralistes, spécialistes, chirurgiens-dentistes, kinésithérapeutes, infirmiers et orthophonistes), ainsi que l’accès aux équipements de santé, afin de structurer ces données dans une base spatiale facilitant l’analyse et la visualisation des inégalités territoriales.
